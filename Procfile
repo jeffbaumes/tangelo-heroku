@@ -1,1 +1,1 @@
-web: tangelo --port 80 --no-daemonize start
+web: tangelo --config tangelo.conf --no-daemonize start
