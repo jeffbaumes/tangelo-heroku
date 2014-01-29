@@ -27,4 +27,4 @@ run the following additional commands:
     export PORT=8080
     foreman start
 
-Pointing your browser to http://localhost:8080 should show the same version of Tangelo's default setup.
+Pointing your browser to [http://localhost:8080](http://localhost:8080) should show the same version of Tangelo's default setup.
